@@ -1,0 +1,12 @@
+# Regeneratable intermediate data (run main.R to rebuild)
+data/
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db

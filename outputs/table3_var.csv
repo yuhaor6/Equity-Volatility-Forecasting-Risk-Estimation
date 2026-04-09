@@ -1,0 +1,3 @@
+"model","exceedances","exc_rate","kupiec_LR","kupiec_pval","chr_LR_ind","chr_pval_ind"
+"GARCH-Normal",50,0.0336,51.853,0,0.061,0.8053
+"GARCH-sstd",35,0.0235,19.937,0,0.037,0.8478
